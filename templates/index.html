@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Site</title>
+</head>
+<body>
+    
+    {% block content %}
+    <div class="left-about-me"><p>ABOUT ME</p></div>
+    <div class="subhead"><h2>A Self-Taught Software Engineer <br> Bringing Ideas To Life!</h2></div>
+    <div class="concise-bio">
+        <p>I’ve always had an affinity for technology from a<br>
+            very young age – I’m always curious to learn how something works.<br><br>
+        
+        Back in 2017 I had started to learn marketing & advertising, I quickly put those skills to real world<br>
+        use by helping business owners leverage my expertise to grow and serve their clients the best they could.<br><br>
+        In doing so, I quickly became obsessed with the user experience and always making it better.<br><br>
+        
+        Mixing together my love for tech, my curiosity of behind the scenes functionality, an obsession to optimize<br>
+        the user experience, I went down this path of learning about programming and software development.<br><br>
+        
+        I have learned some coding on and off from my sophomore year of highschool until about 2021, but since<br>
+        June 6th of 2022 I have embarked on this path to become a top tier software engineer.<br><br>
+        
+        I will consistently be working on projects to expand and apply my learnings (obvious thing to do) but also,<br>
+        documenting and sharing my journey with you.
+        </p></div>
+    <div class="profile-photo">
+        <img src="/static/circle-profile-photo.png" alt="Kevin Parrilla Smiling" style="width:250px;height:250px;">
+    </div>
+    <div class="email">
+        <strong><p>kevinp.codes@gmail.com</p></strong>
+    </div>
+    <div class="profile-photo-title">
+        <p>PROGRAMMER</p>
+    </div>
+    <div class="link1"><a href="https://www.linkedin.com/in/kevin-parrilla/" target="_blank">LinkedIn</a></div>
+    <div class="link2"><a href="https://github.com/Kevin-Parrilla" target="_blank">GitHub</a></div>
+    <div class="link3"><a href="https://www.youtube.com/channel/UCX2NhaUGm10o9or1Y_zCWFg" target="_blank">YouTube</a></div>
+    
+    {% endblock %}
+</body>
+</html>

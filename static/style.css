@@ -1,0 +1,169 @@
+/* CSS for index */
+.left-about-me {
+    position: absolute;
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+    top: 178px;
+    left: 260px;
+    width: 185px;
+    border: 3px solid #3798DE;
+    padding: 0px;
+}
+
+.subhead {
+    position: absolute;
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    top: 250px;
+    left: 72px;
+}
+
+.concise-bio {
+    position: absolute;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    font-size: 15px;
+    top: 350px;
+    left: 40px;
+}
+
+.profile-photo {
+    position: absolute;
+    top: 150px;
+    right: 250px;
+}
+
+.email {
+    position: absolute;
+    top: 445px;
+    right: 270px;
+}
+
+.profile-photo-title {
+    position: absolute;
+    top: 415px;
+    right: 315px;
+}
+
+.link1 {
+    position: absolute;
+    top: 475px;
+    right: 340px;
+}
+
+.link2 {
+    position: absolute;
+    top: 500px;
+    right: 345px;
+}
+
+.link3 {
+    position: absolute;
+    top: 525px;
+    right: 339px;
+}
+
+/* CSS for projects page */
+
+.project-button {
+    position: absolute;
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    font-size: 20px;
+    top: 150px;
+    left: 40%;
+    width: 185px;
+    border: 3px solid #3798DE;
+    padding: 0px;
+}
+
+.project-title1 {
+    position: absolute;
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    font-size: 18px;
+    top: 225px;
+    left: 15%;
+    width: 185px;
+    padding: 0px;
+}
+
+.project-title2 {
+    position: absolute;
+    text-align: center;
+    font-family: "Lucida Console", monospace;
+    font-size: 18px;
+    top: 225px;
+    left: 65%;
+    width: 185px;
+    padding: 0px;
+}
+
+.coming-soon-img1 {
+    position: absolute;
+    border: 1px solid #000000;
+    top: 300px;
+    left: 13%;
+}
+
+.coming-soon-img2 {
+    position: absolute;
+    border: 1px solid #000000;
+    top: 300px;
+    left: 63%;
+}
+
+.preview-button1 {
+    position: absolute;
+    text-align: center;
+    top: 575px;
+    width: 150px;
+    left: 16.5%;
+    border: 3px solid #3798DE;
+}
+
+.preview-button2 {
+    position: absolute;
+    text-align: center;
+    top: 575px;
+    width: 150px;
+    left: 66.5%;
+    border: 3px solid #3798DE;
+}
+
+.source-code-button1 {
+    position: absolute;
+    text-align: center;
+    top: 635px;
+    width: 175px;
+    left: 15.65%;
+    border: 3px solid #3798DE;
+}
+
+.source-code-button2 {
+    position: absolute;
+    text-align: center;
+    top: 635px;
+    width: 175px;
+    left: 65.65%;
+    border: 3px solid #3798DE;
+}
+
+.tutorial-button1 {
+    position: absolute;
+    text-align: center;
+    top: 695px;
+    width: 150px;
+    left: 16.5%;
+    border: 3px solid #3798DE;
+}
+
+.tutorial-button2 {
+    position: absolute;
+    text-align: center;
+    top: 695px;
+    width: 150px;
+    left: 66.5%;
+    border: 3px solid #3798DE;
+}
